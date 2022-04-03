@@ -10,7 +10,7 @@ setup(
     name="simple-package-template-master",
     version="0.0.1",
     author="alessandro",
-    author_email="salsichaturnob@gmail.com",
+    author_email="alessandrocontato1975@outlook.com",
     description="My short description",
     long_description=page_description,
     long_description_content_type="text/markdown",

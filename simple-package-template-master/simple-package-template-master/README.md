@@ -1,11 +1,12 @@
 # package_name
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+#Descrição: 
+>O programa deve imprimir na tela o nome convertido no seguinte formato:
+L*C!@N&
 
-## Installation
+	
+
+## Instalação
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
@@ -21,7 +22,9 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+>Alessandro
+> 
+>Karina Kato
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
